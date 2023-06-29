@@ -1850,7 +1850,7 @@
 
 ***
 
-# ►Uzbek
+# ► Uzbek
 
 ## ▷ Downloading
 
